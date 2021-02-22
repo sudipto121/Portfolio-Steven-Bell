@@ -1,0 +1,129 @@
+/* Navigation CSS */
+#navigation{
+    font-size: 20px;
+    margin-left: 300px; 
+
+}
+.nav-item{
+    margin: 5px;
+}
+
+/* Hero CSS */
+#hero-section{
+    background-image: url(images/writing.jpg);
+}
+.hero-card{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.hero-content{
+    color: #FFFFFF;
+}
+
+/* Featured CSS */
+#featured-section{
+    background-color: #F3F8FB;
+}
+.text{
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+.featured{
+    padding: 30px;
+}
+
+/* What I Do Section */
+.do-section{
+    padding: 50px;
+}
+.do-text{
+    margin: 20px;
+    padding: 40px;
+}
+.section-one{
+    background-color: #075AAE;
+    color: #FFFFFF;
+    padding: 30px;
+    border-radius: 0%;
+}
+.read-more{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fff;
+    color: #FFFFFF;
+    border-radius: 0%;
+}
+.read-more:hover{
+    color: #FFFFFF;
+    background-color: #2374c5;
+    border: none;
+}
+.divider:before{
+    content: "";
+    display: block;
+    width: 50px;
+    height: 1px;
+    background: rgb(199, 196, 196);
+    left: 0;
+    top: 50%;
+    margin-bottom: 20px;
+}
+.advice{
+    margin-top: 20px;
+}
+.section-two{
+    background-color: aliceblue;
+    border-radius: 0%;
+    border: none;
+    padding: 20px;
+}
+.advice-button{
+    background-color: #075AAE;
+    color: #FFFFFF;
+    border-radius: 0%;
+}
+.advice-button:hover{
+    background-color: #2374c5;
+    color: #FFFFFF;
+    border-radius: 0%;
+}
+
+/* Testimonial CSS */
+.testimonial-section{
+    background: url(images/testimonial.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #FFFFFF;
+    padding: 150px;
+}
+.testimonial-text{
+    /* padding-left: 600px; */
+}
+
+/* Story CSS */
+.story-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/* Start Now CSS */
+.start-now-section{
+    background-color: #075AAE;
+    padding: 150px;
+    color: #FFFFFF;
+}
+.start-now-button{
+    background-color: #FFFFFF;
+    color: #000000;
+    border-radius: 0%;
+    margin-top: 50px;
+}
+.start-now-button:hover{
+    background-color: #2374c5;
+    color: #FFFFFF;
+    border-radius: 0%;
+}
+/* Footer CSS */
+.footer-section{
+    padding: 50px;
+}
